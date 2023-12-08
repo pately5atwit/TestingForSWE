@@ -36,5 +36,15 @@
     "length": "0.5",
     "currentProgress": "To Do",
     "sprint": 1
+  },
+  {
+    "taskID": "2eeaf3e5-4bdc-46da-b97f-5cd6278b8c85",
+    "name": "Software Engineering Final Presentation ",
+    "assignee": "Tim, Nick, Jaden, Yogi ",
+    "description": "",
+    "priority": "3",
+    "length": "0.5",
+    "currentProgress": "To Do",
+    "sprint": 0
   }
 ]
