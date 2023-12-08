@@ -17,5 +17,15 @@
     "length": "1",
     "currentProgress": "In Progress",
     "sprint": 1
+  },
+  {
+    "taskID": "9ff2148e-ccb6-48f3-a4a7-4c058575d7f4",
+    "name": "Pilot Test",
+    "assignee": "None",
+    "description": "N/A",
+    "priority": "1",
+    "length": "0.5",
+    "currentProgress": "To Do",
+    "sprint": 0
   }
 ]
