@@ -7,5 +7,15 @@
     "priority": "1",
     "length": "2.5",
     "currentProgress": "In Progress"
+  },
+  {
+    "taskID": "313762e4-a117-440e-b74a-75b074d6dd4b",
+    "name": "Pilot Test",
+    "assignee": "Yogi",
+    "description": "This is going to be a pilot test of how our application is running",
+    "priority": "3",
+    "length": "1",
+    "currentProgress": "In Progress",
+    "sprint": 0
   }
 ]
