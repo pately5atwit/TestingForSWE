@@ -9,16 +9,6 @@
     "currentProgress": "In Progress"
   },
   {
-    "taskID": "9ff2148e-ccb6-48f3-a4a7-4c058575d7f4",
-    "name": "Testing To - Do Menu",
-    "assignee": "None",
-    "description": "N/A",
-    "priority": "1",
-    "length": "0.5",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "2eeaf3e5-4bdc-46da-b97f-5cd6278b8c85",
     "name": "Software Engineering Final Presentation ",
     "assignee": "Tim, Nick, Jaden, Yogi ",
@@ -54,6 +44,15 @@
     "description": "N/A",
     "priority": "3",
     "currentProgress": "Done",
+    "sprint": 1
+  },
+  {
+    "taskID": "9ff2148e-ccb6-48f3-a4a7-4c058575d7f4",
+    "name": "Testing To - Do Menu",
+    "assignee": "None",
+    "description": "N/A",
+    "priority": "1",
+    "currentProgress": "To Do",
     "sprint": 1
   }
 ]
