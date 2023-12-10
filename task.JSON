@@ -19,15 +19,6 @@
     "sprint": 1
   },
   {
-    "taskID": "313762e4-a117-440e-b74a-75b074d6dd4b",
-    "name": "Testing In Progress",
-    "assignee": "None",
-    "description": "This is going to be a pilot test of how our application is running",
-    "priority": "3",
-    "currentProgress": "In Progress",
-    "sprint": 1
-  },
-  {
     "taskID": "9ff2148e-ccb6-48f3-a4a7-4c058575d7f4",
     "name": "Testing To - Do Menu",
     "assignee": "None",
@@ -56,5 +47,14 @@
     "length": "1.5",
     "currentProgress": "In Progress",
     "sprint": 2
+  },
+  {
+    "taskID": "313762e4-a117-440e-b74a-75b074d6dd4b",
+    "name": "Testing In Progress",
+    "assignee": "None",
+    "description": "This is going to be a pilot test of how our application is running",
+    "priority": "3",
+    "currentProgress": "In Progress",
+    "sprint": 1
   }
 ]
